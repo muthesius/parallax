@@ -15,6 +15,21 @@ html{
 	background-color: #dcdcdc;
 }
 
+body{
+	margin:10px;
+	margin-top: 50px;
+}
+
+
+header{
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+}
+header img{ 
+	width: 100%;
+}
 
 a{
 	text-decoration: none;
@@ -97,6 +112,8 @@ a.small{
 #jerusalem-date-blob{ top: 20%; left: 35%; }
 #kiel-date-blob{ top: 55%; left: 15%; }
 #istanbul-date-blob{ top: 60%; left: 57%; }
+#berlin-date-blob{ top: 35%; left: 20%; }
+
 
 #img-fig-blob{ top: 5%; left: 5%; width: 70%;} 
 #img-see-blob{ bottom: 5%; right: 5%; width: 70%;} 
@@ -108,6 +125,27 @@ a.small{
 #img-foyer-blob{ top: 10%; left: 2%; width: 70%;} 
 #img-jerusalem-blob{ top: 1%; left: 20%; width: 70%;} 
 #img-werkbund-blob{ top: 1%; right: 5%; width: 40%;} 
+
+
+#img-desktop2-blob{ top: 10%; left: 33%; width: 70%;} 
+#img-uni2-blob{ top: 19%; left: 28%; width: 70%;} 
+#img-fig2-blob{ top: 6%; left: 15%; width: 40%;} 
+#img-fig3-blob{ top: 3%; left: 22%; width: 50%;} 
+#img-uniform2-blob{ top: 5%; left: 12%; width: 40%;} 
+#img-see2-blob{ top: 8%; left: 15%; width: 40%;} 
+#img-pattern4-blob{ top: 13%; left: 7%; width: 70%;} 
+#img-pattern3-blob{ top: 1%; left: 29%; width: 40%;} 
+#img-foyer2-blob{ top: 10%; left: 20%; width: 40%;} 
+#img-desktop4-blob{ top: 12%; left: 35%; width: 70%;} 
+#img-foyer3-blob{ top: 17%; left: 39%; width: 40%;} 
+#img-foyer4-blob{ top: 4%; left: 5%; width: 40%;} 
+#img-eris2-blob{ top: 3%; left: 10%; width: 70%;} 
+#img-eris3-blob{ top: 2%; left: 1%; width: 40%;} 
+#img-foyer5-blob{ top: 16%; left: 21%; width: 70%;} 
+#img-wiki-blob{ top: 10%; left: 24%; width: 40%;} 
+
+
+
 
 @media (max-width: 640px) { 
 	
